@@ -1,0 +1,153 @@
+
+----------------------------------------------------------
+
+
+--------------------------------------------------------
+
+- - audio library（免费音乐需要搜索很久，可以自己多听）
+- epidemic sound（可以免费听和下载，但是要使用需要收费，100元一个月）
+- audio jungle（Envato）比较贵
+- pond5（不适合个人使用，商业版权较便宜）
+- premium beat（只能单曲购买，300元一首）
+- musicbed（一个月70元左右）
+笔记：boostnote
+
+萤火虫的梦 kiss the rain
+lllusionary Daytime
+你的答案
+老街
+友情多余
+风之丘
+LAST STARDUST
+梦醒时分
+Deja Vu
+勾指起誓
+我爱你中国（小提琴）
+卡布奇诺
+父亲写的散文诗
+City
+当安静的公园。。
+Conquest of paradise
+夜，萤火虫和你
+笑红尘
+夏夜
+有些爱情放不下
+江上青锋有
+那该多好
+Somnabulating
+落月
+多余的解释
+Good night
+如果寂寞了
+。。。。光（纯音乐）
+放你走
+恰似你的温柔
+小河
+because of you
+爱江山更爱美人
+你是我的眼
+喝醉之后才明白
+Aliez
+风居住的街道
+当我要走的时候
+感谢你曾来过
+锦鲤抄
+爱情是那么难遇到的东西
+临安初雨
+努力表
+男孩
+如我西沉
+命运之夜
+眼泪的错觉
+只有一个你
+在我张文中安身立命
+诛仙青云志
+归途
+
+
+<script src="https://eqcn.ajz.miesnfu.com/wp-content/plugins/wp-3d-pony/live2dw/lib/L2Dwidget.min.js"></script>
+<script>
+    L2Dwidget.init({
+        "model": {
+            jsonPath: "https://unpkg.com/live2d-widget-model-koharu@1.0.5/assets/koharu.model.json",
+            "scale": 1
+        },
+        "display": {
+            "position": "left", //看板娘的表现位置
+            "width": 150,  //小萝莉的宽度
+            "height": 300, //小萝莉的高度
+            "hOffset": 0,//小萝莉的X偏移量
+            "vOffset": -20//小萝莉的Y偏移量
+        },
+        "mobile": {
+            "show": true,
+            "scale": 0.5
+        },
+        "react": {
+            "opacityDefault": 0.7,//小萝莉的透明度
+            "opacityOnHover": 0.2
+        }
+    });
+</script>
+
+
+可以采用以下方法洗涤：
+
+1、用菠菜水去除。买一把菠菜,，经过热水滚烫后，菠菜捞起来，将白衣服放入菠菜水中搓揉, 在浸泡10分钟 ，捞起衣物,，然后用正常的洗衣程序洗净衣物，就可以了。
+
+2、用柠檬水洗涤。白色衣物上的顽渍很难去除，取一个柠檬切片水煮，把白色衣物放到柠檬水中浸泡，大约15分钟后清洗即可。
+
+3、用白醋洗涤。取白醋与水混合，浸泡衣服大约五分钟，反复搓洗，然后把衣服冲洗干净，晾干就可以了。
+
+4、用酒精洗涤。酒精要选用浓度不小于75％的医药用酒精。将酒精倒在衣服污渍处，放置5分钟左右，再用洗衣粉搓洗干净即可。
+
+5、用漂白粉洗涤。准备好大半盆水，将两瓶盖的漂白水倒在了清水中，再加少许的洗衣粉，将白衣服浸泡在水里，停留二十分钟。清洗干净衣服,就可以了。
+
+6、用牙膏+肥皂洗涤。在白衣服污渍处加少许牙膏，轻轻揉搓几分钟，再用肥皂搓洗，清水冲净即可。
+
+7、用汽油洗涤。衣服下水前，先用汽油洗一洗污渍处，然后再正常洗涤衣服即可。 
+
+8、用白糖洗涤。 首先把沾上污渍的地方用水浸湿，然后再撒上一勺白糖，用手揉搓几分钟。再用水清洗干净，可除去渍。 
+
+9、用小苏打粉洗涤。将白衣服浸湿后，在有污渍的地方涂上小苏打粉，10分钟后用清水洗净，即可除掉污渍。 
+
+10、用新鲜的莲藕汁洗涤。用刀把新鲜的莲藕切开，将新鲜的莲藕汁涂在污渍处，20分钟后，用水中清洗干净，可除掉污渍。
+
+11、用清凉油去除。在白衣服污渍处，涂抹清凉油，反复搓洗几分钟，之后在冲洗干净即可。
+
+12、食盐水洗涤。准备100克食盐，倒入半盆水水中，搅拌溶解后，把白衣服放入盆中，在盐水中泡15分钟。再用水洗净即可。 
+
+13、用84消毒液洗涤。取一盆水，加入少许84消毒液，白衣服浸泡5分钟左右，捞出衣物，冲洗干净，衣服晾干即可。 
+
+14、用保险粉洗涤。将少量保险粉用开水稀释后，用小毛刷蘸该溶液擦拭污渍处。反复擦洗，直至除净。
+
+15、用洗米水＋橘子皮洗涤。将洗米水、橘子皮放入锅内加水烧煮后，将白衣服浸泡一会，反复搓洗，清水冲净，就可以轻松让衣服恢复洁白。
+
+16、用双氧水或硼砂溶液洗涤。衣服用清水洗后，再用5％的硼砂溶液及3％双氧水揩拭污处，最后用清水漂净即可。 
+
+
+扩展资料
+
+衣服去污就是通过物理和化学方法将被洗物品上有机物、无机物和微生物尽可能地降低到比较安全的水平。清洗彻底是保证消毒或灭菌成功的关键。
+
+保证每次清洗彻底，否则污物凝固影响以后清洗效果和破坏物品；清洗前避免污物变干；复杂物品必须手工清洗，有机物污染较重、污物已干、物品较复杂应预先用酶洗涤剂浸泡2min以上；一般情况下主张先清洗，但必须注意自身保护；尽量不要直接用手对尖锐物分类和清洗；避免污物与身体的直接接触。因条件所限和其它原因不能很好地做到自身防护应先消毒后清洗。
+
+参考资料：百度百科-去污
+
+TOP10 宇宙时空之旅 BV11g4y1z77H
+TOP9 奢侈的一小半 BV16W411K7Lu
+TOP8 家园 BV1ds411Z7JB
+TOP7 帝陵 BV1zb411T7yy
+TOP6 天地玄黄 BV1wf4y127QT
+TOP5 人世间（b站好像没有）
+TOP4 BV1fV411C7NY
+TOP3 人生七年 BV1JQ4y1M7Vk
+TOP2 时间的风景 BV1Tx411n7mr
+TOP1冰冻星球 BV1cx411D75d
+
+//鼠标点击特效 爱心特效
+<script type="text/javascript"> 
+ 
+!function (e, t, a) {function r() {for (var e = 0; e < s.length; e++) s[e].alpha <= 0 ? (t.body.removeChild(s[e].el), s.splice(e, 1)) : (s[e].y--, s[e].scale += .004, s[e].alpha -= .013, s[e].el.style.cssText = "left:" + s[e].x + "px;top:" + s[e].y + "px;opacity:" + s[e].alpha + ";transform:scale(" + s[e].scale + "," + s[e].scale + ") rotate(45deg);background:" + s[e].color + ";z-index:99999");requestAnimationFrame(r)}function n() {var t = "function" == typeof e.onclick && e.onclick;e.onclick = function (e) {t && t(), o(e)}}function o(e) {var a = t.createElement("div");a.className = "heart", s.push({el: a,x: e.clientX - 5,y: e.clientY - 5,scale: 1,alpha: 1,color: c()}), t.body.appendChild(a)}function i(e) {var a = t.createElement("style");a.type = "text/css";try {a.appendChild(t.createTextNode(e))} catch (t) {a.styleSheet.cssText = e}t.getElementsByTagName("head")[0].appendChild(a)}function c() {return "rgb(" + ~~(255 * Math.random()) + "," + ~~(255 * Math.random()) + "," + ~~(255 * Math.random()) + ")"}var s = [];e.requestAnimationFrame = e.requestAnimationFrame || e.webkitRequestAnimationFrame || e.mozRequestAnimationFrame || e.oRequestAnimationFrame || e.msRequestAnimationFrame || function (e) {setTimeout(e, 1e3 / 60)}, i(".heart{width: 10px;height: 10px;position: fixed;background: #f00;transform: rotate(45deg);-webkit-transform: rotate(45deg);-moz-transform: rotate(45deg);}.heart:after,.heart:before{content: '';width: inherit;height: inherit;background: inherit;border-radius: 50%;-webkit-border-radius: 50%;-moz-border-radius: 50%;position: fixed;}.heart:after{top: -5px;}.heart:before{left: -5px;}"), n(), r()}(window, document);
+ 
+</script>

